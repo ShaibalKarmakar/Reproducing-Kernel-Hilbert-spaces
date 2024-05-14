@@ -1,6 +1,6 @@
 # Reproducing-Kernel-Hilbert-spaces
 Exploiting the kernel trick
-RKHS.py creates a RKHS kernel induced by a positive definite matrix.
+RKHS.ipynb creates a RKHS kernel induced by a positive definite matrix. (written in numpy)
 
 RKHS.ipynb 
 demonstrates how the kernel trick works in the case of soft SVM-classifier.
